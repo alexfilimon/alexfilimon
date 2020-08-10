@@ -1,9 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ALexander</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alexander</h1>
 <h3 align="center">An iOS Developer from Voronezh, Russia</h3>
 
-I love coding, drinking coffe and making people happy.
+I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
 [![CV](https://img.shields.io/badge/CV-Александр%20Филимонов-14b420)](http://alexfilimon.github.io/)
+[![Email](https://img.shields.io/badge/Email-as.filimonov@mail.ru-f39f37)](mailto:as.filimonov@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-alexfilimon-1686b1)](https://t.me/alexfilimon)
 
 ## 📈 Github Stats
 
@@ -77,10 +79,3 @@ C++                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
-
-## ✉️ Contacts
-
-You can write: 
-
-[![Email](https://img.shields.io/badge/Email-as.filimonov@mail.ru-f39f37)](mailto:as.filimonov@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-alexfilimon-1686b1)](https://t.me/alexfilimon)
