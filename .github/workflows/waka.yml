@@ -1,6 +1,8 @@
 name: Waka Readme
 
 on:
+  repository_dispatch:
+    types: manual-run
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
