@@ -14,7 +14,7 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,033 Contributions in year 2020
+> 🏆 1,037 Contributions in year 2020
  > 
 > 📦 Used 108.6 kB in GitHub's Storage 
  > 
