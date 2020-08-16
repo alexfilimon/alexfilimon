@@ -10,21 +10,21 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 1,037 Contributions in year 2020
+> 🏆 1,037 Contributions in the year 2020
  > 
-> 📦 Used 108.6 kB in GitHub's Storage 
+> 📦 108.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 25 Public repositories
  > 
-> 🔑 20 Owned Private Repositories 
+> 🔑 20 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    115 commits    ████████░░░░░░░░░░░░░░░░░   32.58% 
@@ -33,7 +33,7 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
@@ -47,21 +47,21 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
-No Activity tracked this Week
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity tracked this Week
+🔥 Code Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in Swift** 
+**I Mostly Code in Swift** 
 
 ```text
 Swift                    21 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
