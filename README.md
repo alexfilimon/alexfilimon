@@ -10,19 +10,19 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,041 Contributions in the year 2020
+> 🏆 1,041 Contributions in the Year 2020
  > 
 > 📦 108.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public repositories
+> 📜 25 Public Repositories
  > 
-> 🔑 20 Private repositories 
+> 🔑 20 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -47,13 +47,13 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
