@@ -10,17 +10,17 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-359273%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361084%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2021
+> 🏆 4 Contributions in the Year 2021
  > 
 > 📦 108.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
@@ -64,11 +64,11 @@ No Activity Tracked This Week
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    23 repos            ██████████░░░░░░░░░░░░░░░   40.35% 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Swift                    23 repos            ██████████░░░░░░░░░░░░░░░   39.66% 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
 
 ```
 
