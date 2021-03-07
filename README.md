@@ -10,13 +10,13 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362053%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364604%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 17 Contributions in the Year 2021
  > 
-> 📦 109.5 kB Used in Github's Storage 
+> 📦 109.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
