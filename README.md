@@ -14,13 +14,13 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
 **🐱 My Github Data** 
 
-> 🏆 26 Contributions in the Year 2021
+> 🏆 27 Contributions in the Year 2021
  > 
 > 📦 109.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
