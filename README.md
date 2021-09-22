@@ -12,11 +12,11 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-365656%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 65 Contributions in the Year 2021
  > 
-> 📦 114.8 kB Used in Github's Storage 
+> 📦 114.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
