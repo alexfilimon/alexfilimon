@@ -16,7 +16,7 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
 > 🏆 175 Contributions in the Year 2021
  > 
-> 📦 150.4 kB Used in GitHub's Storage 
+> 📦 152.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
