@@ -64,17 +64,17 @@ No Activity Tracked This Week
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    29 repos            ██████████░░░░░░░░░░░░░░░   41.43% 
-Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   22.86% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+Swift                    30 repos            ██████████░░░░░░░░░░░░░░░   42.25% 
+Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.23%
 
 ```
 
 
 
- Last Updated on 20/01/2022 18:51:27 UTC
+ Last Updated on 21/01/2022 18:50:39 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
