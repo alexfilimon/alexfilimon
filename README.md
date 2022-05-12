@@ -10,7 +10,7 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-248%20Thousand%20lines%20of%20code-blue)
 
@@ -76,7 +76,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:55:56 UTC
+ Last Updated on 12/05/2022 18:57:47 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
