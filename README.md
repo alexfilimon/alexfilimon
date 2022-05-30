@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alexander</h1>
-<h3 align="center">An iOS Developer from Voronezh, Russia</h3>
+<h3 align="center">An iOS Developer from Saint Petersburg, Russia</h3>
 
 I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
