@@ -26,43 +26,6 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
  > 
 > 🔑 31 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.76% 
-🌆 Daytime    56 commits     █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-🌃 Evening    138 commits    ████████████░░░░░░░░░░░░░   48.59% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.93%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       84 commits     ███████░░░░░░░░░░░░░░░░░░   29.58% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
-Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
-Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Sunday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -76,7 +39,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:54:11 UTC
+ Last Updated on 04/09/2022 18:53:52 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
