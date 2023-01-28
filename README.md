@@ -16,13 +16,13 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2023
+> 🏆 23 Contributions in the Year 2023
  > 
 > 📦 194.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 33 Private Repositories  
  > 
@@ -66,17 +66,17 @@ No Activity Tracked This Week
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    36 repos            ███████████░░░░░░░░░░░░░░   45.57% 
-Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+Swift                    37 repos            ███████████░░░░░░░░░░░░░░   46.25% 
+Python                   16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
 ```
 
 
 
- Last Updated on 27/01/2023 18:49:01 UTC
+ Last Updated on 28/01/2023 18:47:46 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
