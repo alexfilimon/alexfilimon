@@ -3,7 +3,7 @@
 
 I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 
-[![CV](https://img.shields.io/badge/CV-Александр%20Филимонов-14b420)](http://alexfilimon.github.io/)
+[![CV](https://img.shields.io/badge/CV-Александр%20Филимонов-14b420)](./resources/CV_Aleksandr_Filimonov_iOS_November_2023.pdf)
 [![Email](https://img.shields.io/badge/Email-as.filimonov@mail.ru-f39f37)](mailto:as.filimonov@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-alexfilimon-1686b1)](https://t.me/alexfilimon)
 
