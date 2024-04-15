@@ -10,6 +10,8 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -22,6 +24,40 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                771 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌆 Daytime                911 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                760 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌙 Night                  43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Tuesday                  417 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Wednesday                155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Thursday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Friday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 526 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Sunday                   637 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Swift** 
 
 ```text
@@ -35,7 +71,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:59:48 UTC
+ Last Updated on 15/04/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
