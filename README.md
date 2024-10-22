@@ -10,8 +10,6 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -27,9 +25,9 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                773 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌆 Daytime                960 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌃 Evening                775 commits         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌞 Morning                773 commits         ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌆 Daytime                961 commits         █████████░░░░░░░░░░░░░░░░   37.57 % 
+🌃 Evening                775 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
 🌙 Night                  49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -37,7 +35,7 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ```text
 Monday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 Tuesday                  424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Wednesday                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 Thursday                 135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 Friday                   230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 Saturday                 534 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
@@ -71,7 +69,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 18:42:42 UTC
+ Last Updated on 22/10/2024 18:42:27 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
