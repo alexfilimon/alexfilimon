@@ -10,15 +10,13 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 422.8 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2025
+> 🏆 72 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,40 +24,6 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                778 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-🌆 Daytime                971 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                828 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  453 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Wednesday                169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Thursday                 144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Friday                   242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 555 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Sunday                   658 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -73,7 +37,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 18:43:10 UTC
+ Last Updated on 03/10/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
