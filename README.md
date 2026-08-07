@@ -10,8 +10,6 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -26,46 +24,6 @@ I love coding 👨‍💻, drinking coffe ☕️ and making people happy 🎊.
  > 
 > 🔑 57 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                787 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌆 Daytime                1054 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌃 Evening                881 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Tuesday                  489 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Thursday                 164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Friday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Saturday                 564 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Sunday                   701 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -79,7 +37,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:13:24 UTC
+ Last Updated on 07/08/2026 00:28:43 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfilimon&show_icons=true" alt="alexfilimon" />
